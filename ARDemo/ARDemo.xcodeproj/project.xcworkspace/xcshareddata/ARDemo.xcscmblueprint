@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1799CFCFE54DDD29F3BE21FB734C8542AF97309D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "402D8FDBF1F3BE98F124CC068E7E7EC4FAB55807" : 9223372036854775807,
+    "1799CFCFE54DDD29F3BE21FB734C8542AF97309D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B7E3C455-D64E-4B14-AB0A-E15BA6EA3491",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "402D8FDBF1F3BE98F124CC068E7E7EC4FAB55807" : "",
+    "1799CFCFE54DDD29F3BE21FB734C8542AF97309D" : "ARDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ARDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ARDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rhapsodyai\/iOSARDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1799CFCFE54DDD29F3BE21FB734C8542AF97309D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rhapsodyai\/SwiftDemos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "402D8FDBF1F3BE98F124CC068E7E7EC4FAB55807"
+    }
+  ]
+}
